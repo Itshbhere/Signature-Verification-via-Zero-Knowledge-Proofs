@@ -22,7 +22,7 @@ fn main(
     //     0xFF, 0x5D, 0x57, 0x6E, 0x73, 0x57, 0xA4, 0x50, 0x1D, 0xDF, 0xE9, 0x2F, 0x46, 0x68, 0x1B,
     //     0x20, 0xA0,
     // ];
-    // let half_order: Field = from_be_bytes(half_order_bytes);
+    // lets half_order: Field = from_be_bytes(half_order_bytes);
     // let s_int = s as u128;
     // let half_order_int = half_order as u128;
     // assert(s_int <= half_order_int, "Signature is in upper half and invalid");
